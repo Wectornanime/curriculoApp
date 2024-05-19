@@ -3,6 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function Hability() {
     return (
         <View style={styles.container}>
+            <Text style={styles.title2}>Habilidades</Text>
             <View>
                 <Text>- Bancos de dados relacionais, MySQL;</Text>
                 <Text>- Tecnologias frontend, HTML, CSS, Javascript e Typescript;</Text>
